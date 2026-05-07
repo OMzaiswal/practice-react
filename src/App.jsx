@@ -33,7 +33,7 @@ export default function App() {
           style={styles.input}
         />
         <button onClick={addTask} style={styles.addBtn}>
-          Add
+          Add Button
         </button>
       </div>
 
